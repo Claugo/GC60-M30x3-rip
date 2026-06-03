@@ -1,7 +1,7 @@
 # GC60\_M30x3\_rip
 
 Programma per il conteggio dei numeri primi basato sul metodo passivo e ripetitivo di GC-60.
-La documentazione completa del metodo è disponibile su Zenodo.
+La documentazione completa del metodo è disponibile su Zenodo. https://zenodo.org/records/20525948
 
 ---
 
